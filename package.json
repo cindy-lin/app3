@@ -1,0 +1,22 @@
+{
+  "name": "model-node",
+  "version": "1.0.0",
+  "description": "App3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cindy-lin/app3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cindy-lin/app3/issues"
+  },
+  "homepage": "https://github.com/cindy-lin/app3#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
